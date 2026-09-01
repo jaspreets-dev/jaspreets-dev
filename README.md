@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jaspreet 👋
 
-<!--
-**jaspreets-dev/jaspreets-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science major** who enjoys learning by building projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently Focused On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning and improving my problem-solving skills
+* Building projects with **Python**
+* Exploring **web and app development**
+* Strengthening my knowledge of **Git, GitHub, and databases**
+
+## 🛠️ Technologies I'm Learning
+
+`C` `Python` `HTML` `CSS` `Flask` `SQL` `MySQL` `Git` `GitHub`
+
+## 🌱 What I'm Working On
+
+* Practising programming through projects and coding challenges
+* Learning how frontend, backend, and databases work together
+* Turning ideas into complete applications
+
+## 🎯 My Goal
+
+To keep improving as a developer and build projects that solve real problems.
+
+---
+
+Thanks for visiting my profile!
